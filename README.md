@@ -68,3 +68,35 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+ ## Registration:
+
+1.Start by registering yourself with your correct email.
+2.After successful registration, you will be redirected to the task creation window.
+
+
+## How to Add Task :
+
+ 1.first fill the my form , you can add your tasks by clicking the submit button.
+ 2.Ensure to provide all necessary details for the task.
+
+## Task Editing:
+
+1. To edit a task, click the edit button located near your task in the each table row two button one for edit and one for delete.
+2. This will take you to the edit in my  form where you can make the desired changes after that click on edit button near submit.
+
+   ## Note for Editing:
+   Avoid clicking the submit button if you only intend to edit; clicking submit will add a new task.
+
+## Task Deletion:
+
+1. If you want to delete a task, locate the delete button on the right side of each row in the table.
+2. Click the delete button next to the task you wish to remove.
+
+ 
+
+ 
+
+## For Assistance:
+
+## If you have any questions or need assistance, please feel free to call at 6203417361.
