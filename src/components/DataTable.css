@@ -1,0 +1,65 @@
+/* DataTable.css */
+
+table {
+    width: 84%;
+    margin-left: 146px;
+    border-collapse: collapse;
+    margin-top: 20px;
+    text-align: center;
+    justify-content: center;
+  }
+  
+   td {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+    color:#fff;
+    text-align: center;
+    justify-content: center;
+     
+  }
+  
+  th {
+    /* background-color: #f2f2f2; */
+    color:#fff;
+    text-align: center;
+    justify-content: center;
+  }
+  
+  tr:nth-child(even) {
+    /* background-color: #f9f9f9; */
+    
+    
+  }
+  
+  tr:hover {
+    background-color: #413d3d;
+  }
+  
+  button.edit:hover {
+    background-color: #0056b3;
+  }
+  
+   
+  
+  button.delete:hover {
+    background-color: #c82333;
+  }
+  p{
+    color: #fff;
+  }
+
+
+  .filter{
+    max-width: 76px;
+    background-color: #7cb594;
+    padding-right: 14px;
+    height: 42px;
+    padding-bottom: 14px;
+  }
+  .filt{
+    padding-bottom: 26px;
+  }
+
+
+   
